@@ -1,5 +1,5 @@
 <?php
-
-echo "Welcome to Kapula";
+include_once 'views/header.php';
+echo '</html>';
 
 ?>
