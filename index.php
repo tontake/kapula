@@ -1,5 +1,7 @@
 <?php
 include_once 'views/header.php';
-echo '</html>';
+include_once 'views/whatwedo.php';
+
+echo '</body></html>';
 
 ?>

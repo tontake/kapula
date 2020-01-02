@@ -59,7 +59,7 @@ echo '<!DOCTYPE html>
 
 </div>
 </header>
-</body>
+
 
 
 '

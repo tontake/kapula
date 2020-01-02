@@ -84,3 +84,16 @@ header{
     border: 4px solid white;
     width:140px;
 }
+.sec3 {
+	background-image:url('../images/student-life.jpg');
+	background-color:red;
+}
+.sec3 h3 {
+	font-family:Lato;
+	font-size:24;
+	padding-left:10px;
+	
+}
+.p-catchy{
+	color:goldenrod;
+}
