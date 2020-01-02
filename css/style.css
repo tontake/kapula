@@ -47,7 +47,7 @@ header{
     font-size:70px;
   }
   body{
-	background-color:goldenrod;
+	
 }
 }
   .sec2 h2 {
@@ -86,14 +86,21 @@ header{
 }
 .sec3 {
 	background-image:url('../images/student-life.jpg');
-	background-color:red;
+	
+	background-repeat:no-repeat;
+	height: 450px;
+	background-position:center center;
+	background-size:cover;
+	background-color:white;
 }
 .sec3 h3 {
 	font-family:Lato;
-	font-size:24;
-	padding-left:10px;
+	font-size:50px;
+	color:goldenrod;
 	
 }
 .p-catchy{
-	color:goldenrod;
+	color:white;
+	font-size:22px;
+	font-weight:bolder;
 }
